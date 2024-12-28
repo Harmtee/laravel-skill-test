@@ -1,3 +1,30 @@
-# Laravel Skills Test - README
+# Project Name
 
-This project is a solution to the Laravel Skills Test. It showcases a basic Laravel application demonstrating CRUD operations, AJAX, and Bootstrap integration for the provided requirements.
+## Introduction
+
+This is a Coalition Laravel Skill Test. Even though the project can be done without laravel, I chose to use laravel because of the title of the test. Hence, a laravel setup is needed to be achieved apart from have a php server
+
+## Prerequisites
+
+- PHP >= 7.3
+- Composer
+
+## Installation
+
+
+- **Install PHP dependencies:**
+
+   ```bash
+   composer install
+   ```
+## Running the Server
+
+- **Start the development server:**
+
+   ```bash
+   php artisan serve
+   ```
+
+   The application will be available at [http://localhost:8000](http://localhost:8000).
+
+
